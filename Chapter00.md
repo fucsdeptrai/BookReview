@@ -1,0 +1,2 @@
+## Mở bài cùng Grok:
+- **Day 0**: Hôm nay, khi lật mở những trang giới thiệu đầu tiên của cuốn sách, tôi cảm nhận được một tia sáng lấp lánh – dấu hiệu của một tác phẩm đáng để khám phá. Với trực giác nhạy bén dành cho những cuốn sách hay, tôi quyết định không chỉ đọc mà còn viết blog review, ghi lại từng cảm xúc, suy tư và khám phá. Đây sẽ là một hành trình chia sẻ, nơi tôi mời bạn cùng đồng hành, cùng chiêm nghiệm những giá trị ẩn sâu trong từng con chữ. Hãy theo dõi và cùng tôi mở ra thế giới kỳ diệu của cuốn sách này!
