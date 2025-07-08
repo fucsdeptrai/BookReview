@@ -17,3 +17,17 @@
     -  Thường xuyên theo dõi sự tiến bộ của mình
     -  Xem những người thành công trong lĩnh vực đó là nguồn cảm hứng cho mình
 - **Đây là những gì tôi tổng hợp được trong sách chứ không phải những gì tôi đúc kết được, một ngày nào đó tôi sẽ quay trở lại và confirm hẹ hẹ hẹ**
+
+## Day 02:
+- **Đặt kỳ vọng mỗi ngày, mang thứ gì đó thú vị về kể con nghe**
+    - Để biến mỗi ngày của bạn thành ngày đặc biệt, để không ngày nào mà bạn cảm thấy buồn tẻ.
+- **Theo đuổi một chủ đề khiến bạn phấn khích mỗi ngày**
+    - Để cuộc sống trở nên thú vị hơn, đây cũng là 1 cách để theo đuổi FEO
+- **Sử dụng "mệnh lệnh thực thi" nếu thì**
+    - Việc tự động hoá các hành động như vậy sẽ hiệu quả hơn là bạn bị buộc phải xác định mình cần phải làm gì khi tình huống xảy ra, vốn tốn rất nhiều năng lượng và ý chí
+- **Nắm vững nghệ thuật từng-bước-nhỏ**
+    - Nghệ thuật này tuân theo các nguyên tắc: Bắt đầu ngay khi có thể và bắt đầu với khởi đầu đơn giản - Ăn mừng cho quá trình chứ không phải kết quả - Tăng dần thời gian bỏ ra và tập trung vào kết quả
+    - Có thể chọn khởi đầu khó hơn nếu cần kết quả gấp gáp
+    - Ban đầu ta nên ăn mừng vì những công sức ta bỏ ra để duy trì quán tính, không nên tập trung vào kết quả vì điều khó chỉ khiến bạn bi quan hơn thôi =)))
+    - Theo tôi thấy thi khá giống chiến thuật Snowball, không ngừng chiếm lấy những lợi thế nhỏ và tiếp tục lăn cầu tuyết nhờ quán tính và tập trung vào việc dứt điểm ván đấu
+- **Nếu bạn có góp ý gì thì thả vào đây nhá:** https://docs.google.com/forms/d/e/1FAIpQLSdSbRUAJkXwJmfKVJQYZFqr2pfV38uY34IXU6K8HbPBJP0eGQ/viewform?usp=sharing&ouid=115263172928219342903
