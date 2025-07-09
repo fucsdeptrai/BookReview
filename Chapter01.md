@@ -31,3 +31,21 @@
     - Ban đầu ta nên ăn mừng vì những công sức ta bỏ ra để duy trì quán tính, không nên tập trung vào kết quả vì điều khó chỉ khiến bạn bi quan hơn thôi =)))
     - Theo tôi thấy thi khá giống chiến thuật Snowball, không ngừng chiếm lấy những lợi thế nhỏ và tiếp tục lăn cầu tuyết nhờ quán tính và tập trung vào việc dứt điểm ván đấu
 - **Nếu bạn có góp ý gì thì thả vào đây nhá:** https://docs.google.com/forms/d/e/1FAIpQLSdSbRUAJkXwJmfKVJQYZFqr2pfV38uY34IXU6K8HbPBJP0eGQ/viewform?usp=sharing&ouid=115263172928219342903
+
+## Day 03:
+- **Học như kẻ huỷ diệt**
+    - Lợi dụng "trai hư" của tâm trí: Thiên kiến xác nhận
+        - Theo Grok: Thiên kiến xác nhận (confirmation bias) là xu hướng tìm kiếm, diễn giải hoặc ưu tiên thông tin theo cách củng cố niềm tin hoặc giả thuyết sẵn có của một người, đồng thời bỏ qua hoặc xem nhẹ các thông tin mâu thuẫn.
+        - Thiên kiến xác nhận là một thói quen sống, bản chất nó không xấu nếu như bạn kiểm soát được nó. Khi học, bạn có thể dùng thiên kiến xác nhận vào việc trả lời các câu hỏi như: Ý tưởng của thuật toán này là gì? Tại sao nó hiệu quả hơn các thuật toán khác? Khi đó bạn sẽ tập trung hơn vào việc tìm kiếm và hiểu các thông tin liên quan để giải quyết các câu hỏi đó.
+        - Khi viết blog này thì tôi cũng dùng thiên kiến xác nhận để nhắm vào các câu hỏi như: Nội dung trọng tâm của đoạn này nói về cái gì? Những nội dung nào mình nên đưa vào blog của mình?
+    -  Hồi tưởng - tóm lược nhanh. Việc này giúp bạn lưu trữ thông tin tốt hơn nhiều so với việc đọc lại
+    -  Các mẹo vào thủ thuật khác:
+        - Bất cứ khi nào bạn vật lộn với một ý tưởng hay một vấn đề nào đó, hãy nghĩ xem bạn có thể giải thích lại cho một đứa trẻ sẽ như thế nào.
+        - Đừng chỉ nghĩ mà hãy viết ra giấy hoặc nói thật to vì khi nói hay viết thì sẽ giúp biến nó thành bộ nhớ thần kinh
+        - Viết bằng tay sẽ hiệu quả hơn việc đánh máy nếu bạn muốn nhớ lâu hơn
+        - Giãn cách thời gian học vì não cũng giống cơ bắp, nó chỉ có thể giải quyết số lượng hữu hạn các bài tập trong một thời điểm
+- **Tạo quỹ thời gian và theo dõi thời gian mỗi ngày**
+    - Thói quen 1: Dành ít thời gian hơn cho nhiệm vụ nhưng vẫn duy trình hoặc nâng cao hiệu suất
+    - Thói quen 2: Kiên định với niềm tin của mình. Trong thời gian đầu, hãy khắt khe hơn với bản thân để đạt được cam kết mình đưa ra.
+    - Thói quen 3: Coi mọi sai lệch là cơ hội để cải thiện
+    - Thói quen 4: Rõ ràng về thời gian bạn dành cho các dự án và nhiệm vụ nhóm 
