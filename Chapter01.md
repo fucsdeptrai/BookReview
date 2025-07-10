@@ -48,4 +48,14 @@
     - Thói quen 1: Dành ít thời gian hơn cho nhiệm vụ nhưng vẫn duy trình hoặc nâng cao hiệu suất
     - Thói quen 2: Kiên định với niềm tin của mình. Trong thời gian đầu, hãy khắt khe hơn với bản thân để đạt được cam kết mình đưa ra.
     - Thói quen 3: Coi mọi sai lệch là cơ hội để cải thiện
-    - Thói quen 4: Rõ ràng về thời gian bạn dành cho các dự án và nhiệm vụ nhóm 
+    - Thói quen 4: Rõ ràng về thời gian bạn dành cho các dự án và nhiệm vụ nhóm
+
+## Day 04:
+- **Cam ký viết nhật ký hằng ngày**
+    - _Chúng ta không học hỏi từ trải nghiệm, chúng ta học hỏi từ việc suy ngẫm về trải nghiệm_ - John Dewey
+    - Viết nhật ký, cơ bản là viết ra những suy ngẫm về trải nghiệm của bạn. Đây là phương pháp học tập, suy ngẫm vô cùng hiệu quả để tạo cảm giác kiểm soát và thành tựu lớn hơn, từ đó xoa dịu căng thẳng và lo lắng. Viết nhật ký còn có tác dụng điều tiết cảm xúc; khi chúng ta cảm thấy buồn bã hay căng thẳng, viết nhật ký giúp ta điều tiết và thăng bằng cảm xúc. Bởi vì khi viết nhật ký, ta hiểu rõ sâu hơn nhiều về bản thân cũng như hoàn cảnh của mình.
+    - Vậy ta nên tập trung vào điều gì để viết nhật ký hằng ngày? Hãy tập trung để trả lời các câu hỏi như: Ta biết ơn về điều gì? Cảm xúc nào ta cảm thấy mạnh mẽ nhất trong ngày hôm nay? Những sai lầm nào tôi mắc phải hôm nay mà tôi phải cố gắng tránh chúng trong tương lai?
+- **Ghé thăm "vùng xanh" mỗi ngày**
+    - Vùng xanh là hoạt động thể chất yêu thích của mỗi người; bao gồm bơi, chạy, nhảy,...
+    - Khi ở trong vùng xanh, ta không nghĩ về bất kỳ điều gì cụ thể, thay vào đó, ta để tâm trí vô thức của mình lang thang qua những trải nghiệm quá khứ, chương trình làm việc hôm nay, hay những tình huống, những ưu tiên trong cuộc sống. Những hoạt động thể chất giúp sản sinh ra những tế bào não mới trong các khu vực não tập trung vào học tập. Ngoài ra, tâm trí vô thức còn có quyền truy cập vào toàn bộ não bộ của chúng ta, nói cách khác, chúng có thể tạo ra những sự kết hợp mới bên trong não bộ, giúp ta nghĩ ra những ý tưởng và giải pháp mới.
+    - Lý tưởng nhất là ta nên ghé thăm vùng xanh 2 giờ mỗi ngày, một điều bất khả thi với nhiều người. Nhưng may mắn thay, khoa học chỉ ra ta chỉ cần 21-43 phút mỗi ngày là đủ. Bạn cũng có thể chia nhỏ nó thành nhiều đợt để dễ thực hiện hơn, ví dụ như 10 phút đi bộ tới trường và 10 phút đi bộ về nhà (nếu vùng xanh của bạn thật sự là đi bộ đến trường hẹ hẹ hẹ).
